@@ -1,0 +1,13 @@
+.container{
+    max-width: 500px;
+    padding: 20px 30px;
+    margin: 3rem auto 6rem;
+    background-color: red;
+}
+
+.newcontainer{
+    max-width: 500px;
+    padding: 20px 30px;
+    margin: 3rem auto 6rem;
+    background-color: palevioletred;
+}
